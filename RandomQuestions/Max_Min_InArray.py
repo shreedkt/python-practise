@@ -2,4 +2,4 @@
 #Q2. W.A.P to reverse the Array
 
 A= [10,20,30,40,50,60,70,80,90,100]
-print('hello world')
+print(A[:-1])
