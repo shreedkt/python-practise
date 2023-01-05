@@ -1,0 +1,5 @@
+# f= open('another.txt', 'w')
+f= open('another.txt', 'a')
+# f.write("Add this text in file")
+f.write("Appending text")
+f.close()
